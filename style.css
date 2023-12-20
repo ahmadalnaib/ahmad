@@ -354,3 +354,29 @@ padding: 15px 20px;
   margin-bottom: 1rem;
   padding: 5px;
 }
+
+/* mobile */
+
+/* Existing CSS */
+.body-class {
+  padding: 20px; /* existing padding */
+}
+
+/* Responsive CSS for mobile devices */
+@media screen and (max-width: 768px) {
+  .body-class {
+    padding: 40px; /* increased padding for mobile */
+  }
+
+  .project-text{
+    text-wrap: wrap;
+  }
+
+  .grid{
+    flex-direction: column;
+  }
+
+  .contact-container{
+    flex-direction: column;
+  }
+}
