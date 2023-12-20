@@ -313,7 +313,7 @@ padding: 15px 20px;
 }
 
 .contact-one a{
-  color: #5b5bf0;
+  color: #62f05b;
   margin-bottom: 1rem;
   padding: 5px;
 }
@@ -322,11 +322,11 @@ padding: 15px 20px;
 .contact-two h3{
   margin-bottom: 1rem;
   padding: 5px;
-  color: #717275;
+  color: hwb(301 22% 9%);
 }
 
 .contact-two a{
-  color: #5b5bf0;
+  color: #f05bd5;
   margin-bottom: 1rem;
   padding: 5px;
 }
@@ -338,7 +338,7 @@ padding: 15px 20px;
 }
 
 .contact-three a{
-  color: #5b5bf0;
+  color: #f0945b;
   margin-bottom: 1rem;
   padding: 5px;
 }
@@ -350,7 +350,7 @@ padding: 15px 20px;
 }
 
 .contact-four a{
-  color: #5b5bf0;
+  color: #5b9cf0;
   margin-bottom: 1rem;
   padding: 5px;
 }
