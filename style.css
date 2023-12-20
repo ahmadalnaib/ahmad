@@ -234,6 +234,19 @@ padding-bottom: 20px;
 color: #717275;
 margin-bottom: 1rem;
 }
+.now-ul{
+  margin-bottom: 15px;
+}
+
+.now .now-also{
+  margin-top: 15px;
+  padding-top: 10px;
+  margin-bottom: 15px;
+}
+
+.ul-also{
+  margin-bottom: 10px;
+}
 
 /* STATCK SECTION */
 .stack{
