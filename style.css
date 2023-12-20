@@ -248,6 +248,10 @@ margin-bottom: 1rem;
   margin-bottom: 10px;
 }
 
+.ul-also li {
+  display: flex;
+}
+
 /* STATCK SECTION */
 .stack{
   margin-top: 80px;
