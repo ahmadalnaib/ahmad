@@ -231,4 +231,41 @@ color: #717275;
 margin-bottom: 1rem;
 }
 
+/* STATCK SECTION */
+.stack{
+  margin-top: 80px;
+  color: #fff;
+ 
+}
 
+.stack-title{
+  margin-left: 20px;
+}
+
+.stack-title p {
+  color: #717275;
+  margin-top: 3px;
+}
+
+.stack .flex-stack{
+  display: flex;
+  padding-bottom: 20px;
+  align-items: center;
+  margin-top: 30px;
+  text-decoration: none;
+  
+}
+
+.flex-stack:hover{
+ color: #5b5bf0;
+}
+
+.flex-stack .icon {
+  background: #fff;
+padding: 15px 20px;
+  border-radius: 5px;
+}
+
+.flex-stack .icon svg{
+  color: #111215;
+}
