@@ -368,9 +368,6 @@ padding: 15px 20px;
     padding: 40px; /* increased padding for mobile */
   }
 
-  .project-text{
-    text-wrap: wrap;
-  }
 
   .grid{
     flex-direction: column;
@@ -379,4 +376,48 @@ padding: 15px 20px;
   .contact-container{
     flex-direction: column;
   }
+}
+
+
+@media screen and (max-width: 468px) {
+  .body-class {
+    padding: 40px; /* increased padding for mobile */
+  }
+
+
+  .grid{
+    flex-direction: column;
+  }
+
+  .contact-container{
+    flex-direction: column;
+  }
+
+  .header__title p{
+    width: 40%
+  }
+
+  .project-one .project-text{
+    width: 40%;
+  }
+
+  .grid p{
+    width: 40%;
+  }
+.flex{
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+
+}
+
+.Available{
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  margin-top: 10px;
+}
+
+
 }
